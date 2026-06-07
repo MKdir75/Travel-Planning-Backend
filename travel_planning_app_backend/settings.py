@@ -128,5 +128,5 @@ STATIC_URL = 'static/'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000", 
-    "https://travel-planning-frontend.vercel.app/"
+    "https://travel-planning-frontend.vercel.app"
 ]
